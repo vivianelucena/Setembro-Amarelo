@@ -1,0 +1,25 @@
+* {
+    color: #230800;
+    font-family: "Readex Pro", sans-serif;
+    background: #fffdf6;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.banner {
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.texto {
+    margin: 100px 120px 0 120px;
+}
+
+h2{
+    text-align: center;
+    margin: 0 120px 0 120px;
+    padding: 50px;
+}

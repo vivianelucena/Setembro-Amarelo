@@ -1,2 +1,1 @@
 # Setembro-Amarelo
-# Setembro-Amarelo
